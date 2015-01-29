@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["danil@brandymint.ru"]
   spec.summary       = %q{Work with CommerceML}
   spec.description   = %q{Work with CommerceML}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/BrandyMint/CommerceML"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
